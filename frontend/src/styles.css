@@ -9,3 +9,21 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .v-middle{
     vertical-align: middle;
 }
+form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+button{
+    margin: 20px 15px 0px 0px;
+   
+    
+}
+.msg-sucess{
+    background-color: #28a745;
+    color: #fff;
+}
+.msg-error{
+    background-color: rgb(227,94,107);
+    color: #fff;
+}
