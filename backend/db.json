@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
+      "name": "Caneta BIC Preta.",
       "price": 5.89
     },
     {
@@ -11,14 +11,9 @@
       "price": 5000.89
     },
     {
-      "id": 3,
-      "name": "Iphone 8 Plus",
-      "price": 4500.89
-    },
-    {
       "name": "Notebook",
-      "price": "1200.00",
-      "id": 4
+      "price": "1200",
+      "id": 3
     }
   ]
 }
